@@ -1,0 +1,17 @@
+{
+    "name": "vinbrave\/sms",
+    "description": "一个短信包",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yangy",
+            "email": "aidreams@sina.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vinbrave\\Sms\\": "src"
+        }
+    }
+}
